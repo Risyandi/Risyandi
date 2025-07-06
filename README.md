@@ -9,12 +9,12 @@ I enjoy every step of learning process from experience, Take a look at my work a
 
 <div>
   <a href="#">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=risyandi&show_icons=true&theme=merko&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=risyandi&show_icons=true&theme=merko&count_private=true" />
   </a>
 </div>
 <br/>
 <div>
   <a href="#">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=risyandi&theme=merko&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risyandi&theme=merko&layout=compact" />
   </a>
 </div>
