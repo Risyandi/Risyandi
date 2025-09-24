@@ -1,3 +1,5 @@
+[![An image of @risyandi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/risyandi)](https://holopin.io/@risyandi)
+
 ### Hi folks, I'm Risyandi 👋🚴🌴💻
 
 A minimalist personal, continuously learn and explorer knowledge about software development, advertising technologies, data scientist, graphic design, and ecosystem digital startup in Indonesia. With over 9 years experience as a professional work on technology and digital media, I have acquired the skills and knowledge necessary to make your project a success.
