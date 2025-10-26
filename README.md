@@ -14,7 +14,7 @@ Holdex is the premier partner for institutions pioneering DeFi & RWAs. Hong Kong
 
 😎 [**Website Holdex**](https://holdex.io)
 🎉 [**Portfolio Holdex**](https://holdex.io/portfolio)
-⚡ [**We're hiring!**](https://holdex.io/careers)
+⚡ [**We're hiring!**](https://holdex.io/c/jobs)
 💬 [**Ask me about anything**](https://github.com/Risyandi/Risyandi/issues/1)  
  
 <div>
