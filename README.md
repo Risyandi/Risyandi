@@ -6,15 +6,6 @@ A minimalist personal, continuously learn and explorer knowledge about software 
 
 I enjoy every step of learning process from experience, Take a look at my work and if you'd like to discuss your project, please let me know. Through my years of experience as a professional I have acquired the skills and knowledge necessary to make your project a success.
 
-Currently, I work as a **Software Development Engineer at Holdex**.
-
-### What is Holdex?
-
-Holdex is the premier partner for institutions pioneering DeFi & RWAs. Hong Kong-based since 2016, we turn bold visions into secure, scalable blockchain solutions—driving adoption with unmatched expertise.
-
-😎 [**Website Holdex**](https://holdex.io)
-🎉 [**Portfolio Holdex**](https://holdex.io/portfolio)
-⚡ [**We're hiring!**](https://holdex.io/c/jobs)
 💬 [**Ask me about anything**](https://github.com/Risyandi/Risyandi/issues/1)  
  
 <div>
