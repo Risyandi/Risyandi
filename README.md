@@ -11,10 +11,4 @@ I enjoy every step of the learning process—experimenting with new technologies
 Feel free to explore my work, and if you'd like to discuss a project, collaboration, or technology, I'd be happy to connect.
 
 ## Question & Collaboration
-💬 [**Ask me about anything**](https://github.com/Risyandi/Risyandi/issues/1)  
-
-## GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=risyandi&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats" height="160"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risyandi&theme=merko&layout=compact" alt="Top Languages" height="160" />
-</p>
+💬 [**Ask me about anything**](https://github.com/Risyandi/Risyandi/issues/1) 
