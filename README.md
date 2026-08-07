@@ -10,5 +10,19 @@ I enjoy every step of the learning process—experimenting with new technologies
 
 Feel free to explore my work, and if you'd like to discuss a project, collaboration, or technology, I'd be happy to connect.
 
+## WakaTime Stats
+<div align="center">
+  <img
+    src="https://wakatime.com/share/@Risyandi/06e4f082-e5a7-4b07-af7f-3a68a91ab329.svg"
+    alt="WakaTime Stats - Categories"
+    width="49%"
+  />
+  <img
+    src="https://wakatime.com/share/@Risyandi/f9f671d0-93ab-488d-be53-1a2041fae520.svg"
+    alt="WakaTime Stats - Languages"
+    width="49%"
+  />
+</div>
+
 ## Question & Collaboration
 💬 [**Ask me about anything**](https://github.com/Risyandi/Risyandi/issues/1) 
