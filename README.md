@@ -1,7 +1,7 @@
 [![An image of @risyandi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/risyandi)](https://holopin.io/@risyandi)
 
 ## About
-### Hi folks, I'm Risyandi 👋🚴🌴💻
+### Hi I'm Risyandi 👋🚴🌴💻
 ### Software Engineer | ex-Adops Engineer & Programmatic Ads Specialist 
 
 A minimalist at heart and a lifelong learner, I continuously explore software engineering, cloud technologies, and advertising technology. With more than +10 years of professional experience across technology, digital media, advertising, logistics, finance, and education/consulting industries, I have built and delivered scalable applications.
@@ -25,4 +25,9 @@ Feel free to explore my work, and if you'd like to discuss a project, collaborat
 </div>
 
 ## Question & Collaboration
+Have an idea, a technical challenge, or an interesting project?  
+I'm always open to discussing software architecture, backend systems, frontend design, UI/UX solutions, cloud infrastructure, and open-source collaboration.   
+Let's build something impactful together.
+
+
 💬 [**Ask me about anything**](https://github.com/Risyandi/Risyandi/issues/1) 
