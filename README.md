@@ -10,7 +10,11 @@ I enjoy every step of the learning process—experimenting with new technologies
 
 Feel free to explore my work, and if you'd like to discuss a project, collaboration, or technology, I'd be happy to connect.
 
-## WakaTime Stats
+## WakaTime & Streak Stats
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RIsyandi&theme=transparent&border_radius=5&timezone=GMT%2B7" alt="GitHub Streak" /></a>
+</div>
+
 <div align="center">
   <img
     src="https://wakatime.com/share/@Risyandi/06e4f082-e5a7-4b07-af7f-3a68a91ab329.svg"
